@@ -148,3 +148,10 @@ Create table DetalleFactura
 	Constraint FK_DetalleFactura_Factura foreign key (numeroFactura) references Factura(numeroFactura),
 	Constraint FK_DetalleFactura_Productos foreign key (codigoProducto) references Productos(codigoProducto)
 )
+
+
+
+
+
+
+
