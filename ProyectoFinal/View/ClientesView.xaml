@@ -1,0 +1,59 @@
+﻿<Controls:MetroWindow x:Class="ProyectoFinal.View.ClientesView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:ProyectoFinal.View"
+        mc:Ignorable="d"
+        Title="{Binding Titulo}" Height="450" Width="800">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+
+            <Button>
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="EmailClientes" Command="{Binding Instancia}" CommandParameter="EmailClientes"/>
+                    <Button Content="TelefonoClientes" Command="{Binding Instancia}" CommandParameter="TelefonoClientes"/>
+                </StackPanel>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DataGrid ItemsSource="{Binding Clientes}" Grid.ColumnSpan="2" Grid.Row="4" SelectedItem="{Binding SelectCliente}" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn ElementStyle="{DynamicResource MetroDataGridCheckBox}"
+                                        EditingElementStyle="{DynamicResource MetroDataGridCheckBox}"
+                                        Header="Selected"
+                                        Binding="{Binding RelativeSource={RelativeSource AncestorType=DataGridRow}, Path=IsSelected, Mode=OneWay}"
+                                        />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="NIT" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Controls:TextBoxHelper.Watermark="Ingrese la descripción de un nit" IsReadOnly="{Binding IsReadOnlyNit}" Text="{Binding nit}"/>
+        <Label Content="DPI" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Controls:TextBoxHelper.Watermark="Ingrese la descripción de un DPI" IsReadOnly="{Binding IsReadOnlyDPI}" Text="{Binding dpi}"/>
+        <Label Content="Nombre" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Controls:TextBoxHelper.Watermark="Ingrese la descripción de un nombre" IsReadOnly="{Binding IsReadOnlyNombre}" Text="{Binding nombre}"/>
+        <Label Content="Dirección" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center"/>
+        <TextBox Grid.Row="3" Grid.Column="1" Controls:TextBoxHelper.Watermark="Ingrese la descripción de una direccion" IsReadOnly="{Binding IsReadOnlyDireccion}" Text="{Binding direccion}"  />
+        <StackPanel Grid.Row="5" Orientation="Horizontal">
+            <Button Content="Agregar" IsEnabled="{Binding IsEnabledAdd}" Command="{Binding Instancia}" CommandParameter="Add" Margin="10"/>
+            <Button Content="Guardar" IsEnabled="{Binding IsEnabledSave}" Command="{Binding Instancia}" CommandParameter="Save" Margin="10"/>
+            <Button Content="Eliminar" IsEnabled="{Binding IsEnabledDelete}" Command="{Binding Instancia}" CommandParameter="Delete" Margin="10"/>
+            <Button Content="Editar" IsEnabled="{Binding IsEnabledUpdate}" Command="{Binding Instancia}" CommandParameter="Update" Margin="10"/>
+            <Button Content="Cancelar" IsEnabled="{Binding IsEnabledCancel}" Command="{Binding Instancia}" CommandParameter="Cancel" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,74 @@
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.g.cs
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\CategoriaView.g.cs
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ClientesView.g.cs
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ProveedoresView.g.cs
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\TipoEmpaqueView.g.cs
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\App.g.cs
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.cache
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.lref
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.baml
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\CategoriaView.baml
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ClientesView.baml
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ProveedoresView.baml
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\TipoEmpaqueView.baml
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.g.resources
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Dayana Cifuentes\Desktop\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\ControlzEx.dll
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\MahApps.Metro.dll
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\ControlzEx.pdb
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\MahApps.Metro.pdb
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\bin\Debug\MahApps.Metro.xml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\CategoriaView.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ClientesView.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ProveedoresView.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\TipoEmpaqueView.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\App.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.cache
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal_MarkupCompile.lref
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\App.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\MainWindow.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\CategoriaView.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ClientesView.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ProveedoresView.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\TipoEmpaqueView.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.g.resources
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\EmailProveedorView.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\TelefonoProveedorView.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\EmailProveedorView.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\TelefonoProveedorView.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\EmailClientesView.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\TelefonoClientesView.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\EmailClientesView.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\TelefonoClientesView.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ProductosView.g.cs
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\ProductosView.baml
+C:\Users\Javier\Desktop\Javier\Sabados\Modulo 2\Visual Studio WPF\ProyectoFinal\ProyectoFinal\obj\Debug\View\InventarioView.g.cs

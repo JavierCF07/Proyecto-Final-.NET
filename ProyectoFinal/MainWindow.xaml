@@ -1,0 +1,41 @@
+﻿<Controls:MetroWindow x:Class="ProyectoFinal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:ProyectoFinal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            
+            <Button>
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="Categoria" Command="{Binding Instancia}" CommandParameter="Categoria"/>
+                    <Button Content="TipoEmpaque" Command="{Binding Instancia}" CommandParameter="TipoEmpaque"/>
+                    <Button Content="Clientes" Command="{Binding Instancia}" CommandParameter="Clientes"/>
+                    <Button Content="Proveedores" Command="{Binding Instancia}" CommandParameter="Proveedores"/>
+                    <Button Content="Compras" Command="{Binding Instancia}" CommandParameter="Compras"/>
+                    <Button Content="Factura" Command="{Binding Instancia}" CommandParameter="Factura"/>
+                    <Button Content="Inventario" Command="{Binding Instancia}" CommandParameter="Inventario"/>
+                    <Button Content="Productos" Command="{Binding Instancia}" CommandParameter="Productos"/>
+                </StackPanel>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+    </Grid>
+</Controls:MetroWindow>

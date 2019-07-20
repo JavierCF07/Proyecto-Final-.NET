@@ -1,0 +1,43 @@
+﻿<Controls:MetroWindow x:Class="ProyectoFinal.View.EmailProveedorView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:ProyectoFinal.View"
+        mc:Ignorable="d"
+        Title="{Binding Titulo}" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DataGrid ItemsSource="{Binding EmailProveedor}" Grid.ColumnSpan="2" Grid.Row="2" SelectedItem="{Binding SelectEmailProveedor}" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridCheckBoxColumn ElementStyle="{DynamicResource MetroDataGridCheckBox}"
+                                        EditingElementStyle="{DynamicResource MetroDataGridCheckBox}"
+                                        Header="Selected"
+                                        Binding="{Binding RelativeSource={RelativeSource AncestorType=DataGridRow}, Path=IsSelected, Mode=OneWay}"
+                                        />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Email" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="0"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Controls:TextBoxHelper.Watermark="Ingrese la descripción de un email" IsReadOnly="{Binding IsReadOnlyEmail}" Text="{Binding email}"/>
+        <Label Content="Proveedor" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center"/>
+        <ComboBox Grid.Row="1" Grid.Column="1" Controls:TextBoxHelper.Watermark="Elija un proveedor" ItemsSource="{Binding Proveedores}" IsReadOnly="{Binding IsReadOnlyCodigoProveedor}" Text="{Binding codigoProveedor}"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.ColumnSpan="2">
+            <Button Content="Agregar" IsEnabled="{Binding IsEnabledAdd}" Command="{Binding Instancia}" CommandParameter="Add" Margin="10px"/>
+            <Button Content="Guardar" IsEnabled="{Binding IsEnabledSave}" Command="{Binding Instancia}" CommandParameter="Save" Margin="10px"/>
+            <Button Content="Eliminar" IsEnabled="{Binding IsEnabledDelete}" Command="{Binding Instancia}" CommandParameter="Delete" Margin="10px"/>
+            <Button Content="Editar" IsEnabled="{Binding IsEnabledUpdate}" Command="{Binding Instancia}" CommandParameter="Update" Margin="10px"/>
+            <Button Content="Cancel" IsEnabled="{Binding IsEnabledCancel}" Command="{Binding Instancia}" CommandParameter="Cancel" Margin="10px"/>
+        </StackPanel>
+    </Grid>
+</Controls:MetroWindow>
